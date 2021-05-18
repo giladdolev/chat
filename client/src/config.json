@@ -1,0 +1,23 @@
+{
+   "connection": {
+     "multipleStatements": true,
+     "host": "localhost",
+     "user": "root",
+     "password": "REPLACEITWITHYOUROWNPASWWORD",
+     "database": "mysql",
+     "connectTimeout" : 10000,
+     "port": 3306
+   },
+
+   "clientId":"REPLACEITWITHYOUROWN-ffdfd.apps.googleusercontent.com",
+   "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS1, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING",
+   "log": 5,
+   "secretRegistered": "fgs7d86fg8sgrrwrregrgr9ged6sdfg576sdf",
+   "cpuInterval": 120,
+   "clientport": 80,
+   "backendport": 5000,
+   "serverport": 8080,
+   "domain":"israelrace.com"
+ 
+ }
+ 
