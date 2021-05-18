@@ -1,4 +1,4 @@
-This is chat app -not fro production.
+This is chat app - for test only.
 
 //////////////////////
 How to run the app at  local host :
